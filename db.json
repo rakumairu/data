@@ -4,7 +4,7 @@
             "id": "5484412f-53d6-4e9f-9f14-f267e089fe3f",
             "name": "Easther",
             "description": "Profile",
-            "url": "https://easther.rakuma.xyz",
+            "url": "https://demo-themes-easther.vercel.app",
             "image_path": "https://codevotee.s3.amazonaws.com/easther.jpg",
             "created_at": "2021-01-03T06:58:39.000+00:00",
             "updated_at": "2021-01-03T06:58:39.000+00:00"
@@ -13,7 +13,7 @@
             "id": "69acbe5d-b865-4a16-8377-ce5c1d4ec873",
             "name": "Dejavu",
             "description": "Products",
-            "url": "https://dejavu.rakuma.xyz",
+            "url": "https://demo-themes-dejavu.vercel.app/",
             "image_path": "https://codevotee.s3.amazonaws.com/dejavu.jpg",
             "created_at": "2021-01-03T07:12:16.000+00:00",
             "updated_at": "2021-01-03T07:12:16.000+00:00"
